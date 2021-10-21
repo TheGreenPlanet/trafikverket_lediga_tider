@@ -3,7 +3,7 @@ import time
 from discord import Webhook, RequestsWebhookAdapter
 
 # README.md
-discord_webhook_url = 'https://discord.com/api/webhooks/xxxxxxxxxxxxxxxxxxxxxxxx'
+discord_webhook_url = 'webhook url'
 
 url = 'https://fp.trafikverket.se/Boka/occasion-bundles'
 
